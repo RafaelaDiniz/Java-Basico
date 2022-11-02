@@ -1,15 +1,12 @@
 public class TiposVariaveis {
     
-    /**
-     * @param args
-     * @throws Exception
-     */
+    
     public static void main(String[] args) throws Exception {
     
-        
+    
 short numeroCurto = 1;
 int numeroNormal = numeroCurto;
-short numeroCurto = (short) numeroNormal;
+short numeroCurto = (short)numeroNormal;
 
 int numero = 5;
 
