@@ -1,3 +1,4 @@
+
 public class Operadores {
     public static void main(String[] args) {
 String nomeCompleto = "LINGUAGEM" + "JAVA";
@@ -49,7 +50,11 @@ b = 7;
                     System.out.println("numeroUm é igual a numeroDois?" + simNao );
                     simNao = numero1 > numero2;
                     System.out.println("numeroUm é maior que numeroDois?" + simNao);
+String nomeUm = "Rafaela";
+String nomeDois = new String("Rafaela");
 
+
+System.out.println(nomeDois.equals("Rafaela"));
 
                 }}
 
