@@ -16,7 +16,20 @@ public void aumentarVolume(){
 }
 public void diminuirVolume(){
     volume--;
-    System.out.println("Diminuindo o volume para : " - volume);
-   //volume = volume -1; 
+    System.out.println("Diminiu o volume para : " + volume);
     }
-}
+
+    public void mudarCanal(int novoCanal){
+        canal = novoCanal;
+
+    }
+
+
+    public void aumentarCanal(){
+        canal++;
+    }
+    public void diminuirCanal(){
+        canal--;
+    }
+    }
+
