@@ -2,7 +2,7 @@
  #
 
  # Lógica Condicional e Controle de Fluxos
- [![Imagem logo java](/../../logo-java-s/logo_java)](https://www.java.com/pt-BR)
+ [![Imagem logo java](https://www.java.com/pt-BR)
 
 ### 📚 Repositório criado para exercitar o aprendizado do curso Java Beginners da Digital Innovation One - DIO
           *Bootcamp Potência Tech powered by iFood - Java Beginners.*
@@ -32,3 +32,6 @@
 - [4- Blocos](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/1e39b6fb-3ee0-401e-8e1c-3033225a8da8?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined)
 
 
+
+
+[def]: ../../logo-java-s/logo_java.png
