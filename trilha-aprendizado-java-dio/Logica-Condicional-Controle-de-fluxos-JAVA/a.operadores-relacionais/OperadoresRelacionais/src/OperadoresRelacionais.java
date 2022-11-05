@@ -13,7 +13,7 @@ public class OperadoresRelacionais {
         if (i1 == i2);
        System.out.println("São valores iguais i1 e i2");
        if (i2 > i1);
-       System.out.println("Ganhei i1 é maior qe i2");
+       System.out.println("Ganhei i é maior i2");
 
 
             float f1 = 4.5f;
