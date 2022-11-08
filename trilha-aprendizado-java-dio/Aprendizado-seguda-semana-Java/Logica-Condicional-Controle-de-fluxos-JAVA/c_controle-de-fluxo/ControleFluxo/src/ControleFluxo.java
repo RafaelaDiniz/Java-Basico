@@ -113,7 +113,6 @@ private static void switchSemana () {
     System.out.println(1);
     break;
     default:
-    System.out.println(1);
     System.out.println("dia invalido");
     break;
     }
